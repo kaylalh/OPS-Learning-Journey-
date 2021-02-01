@@ -1,4 +1,4 @@
-# DeltaV OPS Notes 
+# OPS Notes 
 ***Learning Journal from 201*** 
 
 [My github page](https://github.com/kaylalh)
