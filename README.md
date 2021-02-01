@@ -1,4 +1,4 @@
-# OPS Notes 
+# Notes and Other Tibits 
 ***Learning Journal from 201*** 
 
 [My github page](https://github.com/kaylalh)
