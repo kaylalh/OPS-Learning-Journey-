@@ -1,8 +1,6 @@
 # Back Up Your System
 How to Use System Restore in Windows
 
-This article discusses how to use System Restore in Various Versions of the Windows Operating system. 
-
 What is System Restore?: A tool that lets you return to a previous software, registry point and driver configuration known as a Restore Point. Basically it's undoing whatever changes you made when the restore point was created.
 
 I'm focusing on the Newer Operating system instructions because it's what I'm currently using. No disrespect to Windows & XP. I’m going to pretend like that other one that shall remain nameless does not exist 
@@ -21,4 +19,6 @@ Choose a restore point from the list
 Click on the next button
 Confirm the restore point and then select finish.
 
-Restoring your system will not affect any non system files such as documents, pictures, music etc. 
+Restoring your system will not affect any non system files such as documents, pictures, music, etc. 
+Usually restore points do not need to be manually created, if the system is working properly then it will do it automatically and regularly.
+Also system restore can be started using the command prompt rstrui.exe. It can be helpful in certain situations such as if you need to run it from safe mode.
