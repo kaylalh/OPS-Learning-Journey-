@@ -1,5 +1,5 @@
 # Notes and Other Tibits 
-***Learning Journal from 201*** 
+***Learning Journey*** 
 
 Hi Im Michaela Harrison and I'm so ecstatic to be sharing my Journey. I love music, traveling and going to concerts ( when it's safe of course) cooking and learning new things.
 
